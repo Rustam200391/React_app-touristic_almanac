@@ -1,0 +1,23 @@
+
+h2, h3 {
+    text-align: center;
+    color: rgb(4, 4, 196);
+}
+
+#global {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    margin: 0 20px;
+    padding: 4px;
+    text-decoration: none;
+    transition: .3s;
+}
+
+link:hover {
+    color: aquamarine;
+    text-decoration: underline;
+    cursor: pointer;
+}
