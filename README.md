@@ -1,4 +1,4 @@
 React_app-touristic_almanac
-Чтобы запустить проект, вам необходимо импортировать его в терминал. Для этого укажите https-адрес, который появится при нажатии кнопки "код" над файлами проекта в github. Мы указываем адрес в терминале после команды git clone . Мы записываем все это в папку, в которую хотим импортировать код.
+To launch a project, you need to import it into the terminal. To do this, specify the https address that will appear when you click the "code" button above the project files in github. We specify the address in the terminal after the git clone command . We write all this to the folder where we want to import the code.
 
-После импорта файлов вам необходимо открыть корневую папку в терминале и установить все зависимости с помощью команды "npm install".
+After importing the files, you need to open the root folder in the terminal and install all the dependencies using the "npm install" command.
